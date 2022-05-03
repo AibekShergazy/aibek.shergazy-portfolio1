@@ -1,0 +1,29 @@
+*html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+header {
+  background-color: brown;
+}
+.header a {
+  color: #fff;
+  text-decoration: none;
+}
+.nav {
+  padding: 10px 0;
+  background-color: blue;
+  color: aliceblue;
+}
+.nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
